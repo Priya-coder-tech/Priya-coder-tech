@@ -10,11 +10,11 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=dharshinikumar106-jpg&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Priya-coder-tech&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/dharshinikumar106-jpg?style=for-the-badge&logo=github&color=8A2BE2"/>
+<img src="https://img.shields.io/github/followers/Priya-coder-tech?style=for-the-badge&logo=github&color=8A2BE2"/>
 
-<img src="https://img.shields.io/github/stars/dharshinikumar106-jpg?style=for-the-badge&logo=github&color=C084FC"/>
+<img src="https://img.shields.io/github/stars/Priya-coder-tech?style=for-the-badge&logo=github&color=C084FC"/>
 
 </div>
 
@@ -616,15 +616,15 @@ Business Insights & Data Visualization
 
 <br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dharshinikumar106-jpg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=C084FC&icon_color=C084FC&text_color=ffffff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Priya-coder-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=C084FC&icon_color=C084FC&text_color=ffffff"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=dharshinikumar106-jpg&theme=tokyonight&hide_border=true&background=00000000&ring=C084FC&fire=C084FC&currStreakLabel=C084FC"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Priya-coder-tech&theme=tokyonight&hide_border=true&background=00000000&ring=C084FC&fire=C084FC&currStreakLabel=C084FC"/>
 
 <br><br>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharshinikumar106-jpg&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=C084FC&text_color=ffffff"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-coder-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=C084FC&text_color=ffffff"/>
 
-<img width="54%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharshinikumar106-jpg&theme=tokyonight"/>
+<img width="54%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priya-coder-tech&theme=tokyonight"/>
 
 </div>
 
@@ -634,7 +634,7 @@ Business Insights & Data Visualization
 
 # 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=dharshinikumar106-jpg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Priya-coder-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
 
 </div>
 
@@ -724,13 +724,13 @@ Consistency > Perfection
 <picture>
 
 <source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/dharshinikumar106-jpg/dharshinikumar106-jpg/output/github-contribution-grid-snake-dark.svg"/>
+srcset="https://raw.githubusercontent.com/Priya-coder-tech/Priya-coder-tech/output/github-contribution-grid-snake-dark.svg"/>
 
 <source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/dharshinikumar106-jpg/dharshinikumar106-jpg/output/github-contribution-grid-snake.svg"/>
+srcset="https://raw.githubusercontent.com/Priya-coder-tech/Priya-coder-tech/output/github-contribution-grid-snake.svg"/>
 
 <img alt="snake animation"
-src="https://raw.githubusercontent.com/dharshinikumar106-jpg/dharshinikumar106-jpg/output/github-contribution-grid-snake.svg"/>
+src="https://raw.githubusercontent.com/Priya-coder-tech/Priya-coder-tech/output/github-contribution-grid-snake.svg"/>
 
 </picture>
 
@@ -842,7 +842,7 @@ Keep improving through consistency.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/dharshinikumar106-jpg">
+<a href="https://github.com/Priya-coder-tech">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -926,7 +926,7 @@ Technology can change lives—keep creating.
 
 ## 👀 Visitor Counter
 
-<img src="https://komarev.com/ghpvc/?username=dharshinikumar106-jpg&label=Visitors&style=for-the-badge&color=8A2BE2"/>
+<img src="https://komarev.com/ghpvc/?username=Priya-coder-tech-jpg&label=Visitors&style=for-the-badge&color=8A2BE2"/>
 
 </div>
 
