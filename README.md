@@ -405,7 +405,7 @@ Analyzed datasets and created interactive dashboards for better business decisio
 </div>
 <div align="center">
 
-# <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="35"/> Certifications & Experience
+ <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="35"/> Certifications & Experience
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2"/>
 
@@ -507,7 +507,7 @@ Robotics
 
 ---
 
-# <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="35"/> Internship Experience
+ <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="35"/> Internship Experience
 
 <table>
 
@@ -697,7 +697,7 @@ Consistency > Perfection
 </div>
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35"/> Contribution Activity
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35"/> Contribution Activity
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2"/>
 
@@ -711,7 +711,7 @@ Consistency > Perfection
 
 ## 📈 GitHub Activity Graph
 
-[![Priyadharshini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dharshinikumar106-jpg&theme=tokyo-night&bg_color=0d1117&color=C084FC&line=8A2BE2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Priyadharshini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Priya-coder-tech&theme=tokyo-night&bg_color=0d1117&color=C084FC&line=8A2BE2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
