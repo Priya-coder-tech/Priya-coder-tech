@@ -1,6 +1,7 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,50:8A2BE2,100:C084FC&text=Priyadharshini%20S&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%E2%80%A2%20Java%20Developer%20%E2%80%A2%20Aspiring%20Software%20Engineer&descAlignY=60"/>
+  <img src="https://raw.githubusercontent.com/Priya-coder-tech/Priya-coder-tech/main/coder-banner.png.png" width="100%" alt="Coder Banner"
+type=waving&height=250&color=0:6C63FF,50:8A2BE2,100:C084FC&text=Priyadharshini%20S&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%E2%80%A2%20Java%20Developer%20%E2%80%A2%20Aspiring%20Software%20Engineer&descAlignY=60"/>
+</div>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Hi, I'm Priyadharshini
 
